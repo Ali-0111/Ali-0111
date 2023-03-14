@@ -1,16 +1,41 @@
-### Hi there 👋
+<br>
 
-<!--
-**Ali-0111/Ali-0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Ali 👋 
 
-Here are some ideas to get you started:
+####  I am currently studying at [Microverse](https://www.microverse.org/?grsf=04r25h) and working as a front-end developer.<br>
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500" src="![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-0111&show_icons=true&theme=radical)">
+<br>
+
+<!-- Visitors https://github.com/jwenjian/visitor-badge -->
+
+
+<p align="center">
+<i>Let's connect and chat!</i>
+
+<p align="center">
+ <a href="https://twitter.com/qurban_safari" alt="Twitter">
+  <img width="30px"  src="./img/twitter.svg">
+ </a>
+ <a href="https://www.linkedin.com/in/ali-safari-695214202/" alt="Linkedin">
+  <img width="30px" src="./img/linked.svg">
+ </a>
+ <a href="https://ali-0111.github.io/Microverse_Portfolio/" alt="MyProfile">
+  <img width="30px"  src="./img/mail.svg">
+ </a>
+
+ </p>
+</p>
+  
+<p align="center"> 
+  Looking for new Challenges!
+  <img src="./img/dino.gig">
+</p>
+
+
+
+
+
+
