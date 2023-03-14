@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+  Number of People who shared me friendship by visiting <br>
   <img src="https://profile-counter.glitch.me/ali-0111/count.svg" />
 </p>
 
