@@ -6,11 +6,8 @@
   
   
 
-<img width="500" src="![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-0111&show_icons=true&theme=radical)">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-0111)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-<!-- Visitors https://github.com/jwenjian/visitor-badge -->
-
 
 <p align="center">
 <i>Let's connect and chat!</i>
