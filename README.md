@@ -31,7 +31,7 @@
   
 <p align="center"> 
   Looking for new Challenges!
-  <img src="./img/dino.gig">
+  <img src="./img/dino.gif">
 </p>
 
 
