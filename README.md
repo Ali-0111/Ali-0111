@@ -24,7 +24,7 @@
  <a href="https://www.linkedin.com/in/ali-safari-695214202/" alt="Linkedin">
   <img width="30px" src="./img/linked.svg">
  </a>
- <a href="https://ali-0111.github.io/Microverse_Portfolio/" alt="MyProfile">
+ <a href="mailto:alirahanet@gmail.com" alt="MyProfile">
   <img width="30px"  src="./img/mail.svg">
  </a>
 
