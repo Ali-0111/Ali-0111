@@ -10,12 +10,12 @@
 <br>
 
 <p align="center"> 
-  Number of People who shared me friendship by visiting <br>
+  Number of People who shared me friendship <br>
   <img src="https://profile-counter.glitch.me/ali-0111/count.svg" />
 </p>
 
 <p align="center">
-<i>Let's connect and chat!</i>
+<i>I invite you to be in contact!</i>
 
 <p align="center">
  <a href="https://twitter.com/qurban_safari" alt="Twitter">
