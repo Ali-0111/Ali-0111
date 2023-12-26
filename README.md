@@ -2,7 +2,7 @@
 
 ### Hi there, I am Ali 👋 
 
-####  I love [Microverse](https://www.microverse.org/?grsf=04r25h) and working as a front-end developer.<br>
+
   
   
 
